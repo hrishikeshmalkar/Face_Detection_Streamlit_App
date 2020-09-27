@@ -87,7 +87,7 @@ def main():
 			our_image = Image.open(image_file)
 			st.text("Original Image")
 			# st.write(type(our_image))
-			st.image(our_image,width=700)
+			st.image(our_image,width=300)
 
 			enhance_type = st.sidebar.radio("Image Enhance Type",["Original","Gray-Scale","Contrast","Brightness","Blurring"])
 			if enhance_type == 'Gray-Scale':
@@ -127,25 +127,25 @@ def main():
 
 			if feature_choice == 'Faces':
 				result_img,result_faces = detect_faces(our_image)
-				st.image(result_img,width=700)
+				st.image(result_img,width=300)
 
 				st.success("Found {} faces".format(len(result_faces)))
 			elif feature_choice == 'Smiles':
 				result_img = detect_smiles(our_image)
-				st.image(result_img,width=700)
+				st.image(result_img,width=300)
 
 
 			elif feature_choice == 'Eyes':
 				result_img = detect_eyes(our_image)
-				st.image(result_img,width=700)
+				st.image(result_img,width=300)
 
 			elif feature_choice == 'Cartonize':
 				result_img = cartonize_image(our_image)
-				st.image(result_img,width=700)
+				st.image(result_img,width=300)
 
 			elif feature_choice == 'Cannize':
 				result_canny = cannize_image(our_image)
-				st.image(result_canny,width=700)
+				st.image(result_canny,width=300)
 
 
 
