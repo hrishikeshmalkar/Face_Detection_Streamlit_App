@@ -6,7 +6,7 @@ import numpy as np
 import os
 
 img=Image.open('logo.png')
-st.beta_set_page_config(page_title='Hello.io',page_icon=img)
+st.beta_set_page_config(page_title='Face Detection App',page_icon=img)
 
 @st.cache
 def load_image(img):
