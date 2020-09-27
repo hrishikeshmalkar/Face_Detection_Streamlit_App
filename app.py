@@ -5,6 +5,9 @@ from PIL import Image,ImageEnhance
 import numpy as np 
 import os
 
+img=Image.open('logo.png')
+st.beta_set_page_config(page_tile="Face_Detection_App",page_icon=img)
+
 @st.cache
 def load_image(img):
 	im = Image.open(img)
