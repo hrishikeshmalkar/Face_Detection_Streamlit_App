@@ -149,7 +149,6 @@ def main():
 
 
 
-
 	elif choice == 'About':
 		st.subheader("About Face Detection App")
 		st.text("This app is Built with Streamlit and OpenCV")
