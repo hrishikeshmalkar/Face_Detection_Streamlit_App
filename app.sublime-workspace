@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre",
+				"prediction"
+			],
+			[
+				"GenderP",
+				"GenderPredictor"
+			],
+			[
+				"re",
+				"result_avg"
+			],
+			[
+				"c",
+				"c_sentiment"
+			],
+			[
+				"emo",
+				"emojize"
+			],
+			[
+				"e",
+				"emojize"
+			],
+			[
+				"pred",
+				"prediction_label"
+			],
+			[
+				"p",
+				"prediction"
+			],
+			[
+				"get",
+				"get_key"
+			],
+			[
+				"vect",
+				"vectorized_result"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"number",
+				"number_input"
+			],
+			[
+				"sele",
+				"selectbox"
+			],
+			[
+				"work",
+				"d_workclass"
+			],
+			[
+				"Salay",
+				"Salary"
+			],
+			[
+				"st",
+				"st"
+			],
+			[
+				"load",
+				"load_icon"
+			],
+			[
+				"ic",
+				"icon_css"
+			],
+			[
+				"se",
+				"selected_index"
+			],
+			[
+				"data",
+				"dataframe"
+			],
+			[
+				"all",
+				"all_columns"
+			],
+			[
+				"m",
+				"markdown"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"news_",
+				"news_tf"
+			],
+			[
+				"news",
+				"news_tdiftransformer"
+			],
+			[
+				"new",
+				"news_vectorizer"
+			],
+			[
+				"vec",
+				"vectorized_text"
+			],
+			[
+				"ne",
+				"news_nb_model"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"r",
+				"rawtext"
+			],
+			[
+				"_",
+				"__name__"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"P",
+				"Posts"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"b",
+				"blog_post_date"
+			],
+			[
+				"blo",
+				"blog_article"
+			],
+			[
+				"blog",
+				"blog_author"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"s",
+				"skewY()\ttransform"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"background-",
+				"background-size\tproperty"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"HEA",
+				"HEADER\tTag"
+			],
+			[
+				"inline",
+				"inline-grid\tdisplay"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-anchor\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"i",
+				"inline-grid\tdisplay"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"font-si",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"C",
+				"CheckBox"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/App_with_Streamlit/Face_Detection/face_detection_app/app.py",
+		"/C/Users/HRISHIKESH/Downloads/widget_state.json",
+		"/C/Users/HRISHIKESH/Downloads/taskForIntern/final.json",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/app.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/lib/spacy/pipeline/pipes.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/sumy/evaluation/__init__.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/sumy/utils.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/sumy/_compat.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/sumy/__main__.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/sumy/__init__.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/GenderPredictor_ML_Package/genpred/genclf.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Sentiment-Analysis-Streamlit/Pipfile",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Contraceptive-Method-Choice-Prediction/app.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Summarizer_Web_App_Streamlit/Pipfile",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Sentiment-Analysis-Streamlit/app1.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Sentiment-Analysis-Streamlit/emoji/setup.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Contraceptive-Method-Choice-Prediction/Pipfile",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/Building_ML_Web_Apps_with_Streamlit/cmc_prediction_app/Contraceptive_Method_Choice_Predictor/icon.css",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Salary_Prediction_Ml_App_Streamlit/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/Building_ML_Web_Apps_with_Streamlit/cmc_prediction_app/Contraceptive_Method_Choice_Predictor/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/Building_ML_Web_Apps_with_Streamlit/cmc_prediction_app/Contraceptive_Method_Choice_Predictor/app1.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/App_with_Streamlit/cmc_prediction_app/Contraceptive_Method_Choice_Predictor/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Course_Resources/Module03/Building_ML_Web_Apps_with_Streamlit/cmc_prediction_app/Contraceptive_Method_Choice_Predictor/exported_pipeline_for_ml.py",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Salary_Prediction_Ml_App_Streamlit/requirements.txt",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Salary_Prediction_Ml_App_Streamlit/Pipfile.lock",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Salary_Prediction_Ml_App_Streamlit/Pipfile",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Contraceptive-Method-Choice-Prediction/Procfile",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Salary_Prediction_Ml_App_Streamlit/README.md",
+		"/C/Users/HRISHIKESH/Documents/GitHub/Salary_Prediction_Ml_App_Streamlit/Procfile",
+		"/C/Users/HRISHIKESH/Documents/GitHub/desktop-tutorial/README.md",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Course_Content_Building_ML_Apps/building-ml-web-apps-course/Module03/Building_ML_Web_Apps_with_Streamlit/salary_ml_app/country_abbrev.txt",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/news_cls/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 3/Module 3/news_cls/templates/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1 - 2/WEBAPP/Module 2/Flask/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/stblog/db_fxns.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/stblog/db_fun.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/stblog/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/stblog/provided by Udemy/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/stblog/provided by Udemy/stblog01/db_fxns.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/HugTuts/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Streamlit/icon.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Streamlit/app1.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Streamlit/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Flask/templates/about.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Flask/templates/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Flask/templates/results.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Flask/templates/profile.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/building-machine-learning-web-apps-with-python/Section 1/WEBAPP/Module 2/Flask/app.py",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI and ML integration/Section 5 CSS/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI and ML integration/Section 5 CSS/Lists.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI and ML integration/Section 5 CSS/image.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI and ML integration/Section 9 CSS Grid and CSS Layout/style.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI and ML integration/Section 4 Advance HTML5/Forms/Registration.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI and ML integration/Section 9 CSS Grid and CSS Layout/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 10 JavaScript/java4.js",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 10 JavaScript/java3.js",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 10 JavaScript/java2.js",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 10 JavaScript/java1.js",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 10 JavaScript/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 10 JavaScript/java.js",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 4 Advance HTML5/Forms/Registration.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 9 CSS Grid and CSS Layout/Mini-Website/style.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 9 CSS Grid and CSS Layout/Mini-Website/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 9 CSS Grid and CSS Layout/Mini-Website/img/bag.jpg",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 9 CSS Grid and CSS Layout/style.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 9 CSS Grid and CSS Layout/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 5 CSS/image.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 5 CSS/first.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/bootstrap-4.5.0-examples/carousel/carousel.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/bootstrap-4.5.0-examples/carousel/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/index_boostrap.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 5 CSS/Lists.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/style2.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/style1.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/index1.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/style.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/bootstrap-4.5.0-examples/cover/cover.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 7 Bootstrap 4 The Front End Master/bootstrap-4.5.0-examples/cover/index.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 6 Advance CSS/Imagography_using_flask.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 6 Advance CSS/style.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 6 Advance CSS/stylejava.js",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 6 Advance CSS/style1.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/section 6 Advance CSS/Imagography1_using_flask.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 5 CSS/style.css",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 3 Html5/Anchor tag/image.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 3 Html5/Anchor tag/Lists.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 3 Html5/Registration.html",
+		"/E/Vishal/VishalClinic/register1.aspx",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 3 Html5/image.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 3 Html5/Lists.html",
+		"/C/Users/HRISHIKESH/Documents/UDEMY/Full Stack Web Development with AI & ML integration/Section 3 Html5/first.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
