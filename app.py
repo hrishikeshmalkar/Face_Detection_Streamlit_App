@@ -146,6 +146,7 @@ def main():
 			elif feature_choice == 'Cannize':
 				result_canny = cannize_image(our_image)
 				st.image(result_canny,width=300)
+				
 
 
 
