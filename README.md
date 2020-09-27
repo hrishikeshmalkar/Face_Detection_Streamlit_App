@@ -28,12 +28,9 @@
 - Which contains the basic dependences which you can copy and paste into Aptfile
 
 ```libsm6
-```
-```libxrender1
-```
-```libfontconfig1
-```
-```libice6
+   libxrender1
+   libfontconfig1
+   libice6
 ```
  
 ### Buildpack For Paid Heroku account
